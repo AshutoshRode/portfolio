@@ -18,6 +18,9 @@
     margin-bottom: var(--mb-1-5);
 }
 
+.skills-icon {
+    font-size: 1.5rem;
+}
 .skills__box {
     display: flex;
     justify-content: center;
@@ -34,6 +37,7 @@
     display: flex;
     column-gap: 0.5rem;
 }
+
 
 .skills .bx-badge-check {
     font-size: 1rem;

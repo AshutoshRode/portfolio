@@ -11,12 +11,12 @@ function info() {
       <div className="about__box">
         <i className="bx bx-briefcase-alt about_icon"></i>
         <h3 className="about__title">Completed</h3>
-        <span className="about__subtitle">20 + projects</span>
+        <span className="about__subtitle">10 + projects</span>
       </div>
       <div className="about__box">
-        <i className="bx bx-support about_icon"></i>
-        <h3 className="about__title">Support</h3>
-        <span className="about__subtitle">Online 24/7</span>
+        <i className="bx bxs-graduation about_icon"></i>
+        <h3 className="about__title"> B.E. </h3>
+        <span className="about__subtitle">Computer </span>
       </div>
     </div>
 

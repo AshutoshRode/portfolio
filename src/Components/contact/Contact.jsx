@@ -54,11 +54,12 @@ function Contact() {
 
 
                         <div className="contact__card">
-                            <i className="bx bxl-messenger contact__card-icon">
-                                <h3 className="contact__card-title">Messenger</h3>
-                                <span className="contact__card-data">user.fb123</span>
+                            
+                            <i className='bx bxl-linkedin-square contact__card-icon' >
+                                <h3 className="contact__card-title">Linkedin</h3>
+                                <span className="contact__card-data">ashutosh-rode-a81a8a18b</span>
 
-                                <a href="https://m.me/cryticalcoder" className="contact__button">
+                                <a href="https://www.linkedin.com/in/ashutosh-rode-a81a8a18b/" className="contact__button">
                                     Write me{" "}
                                     <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                                 </a>

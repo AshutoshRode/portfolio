@@ -4,9 +4,10 @@ import Header from './Components/header/Header';
 import Home from './Components/home/Home';
 import About from './Components/about/About';
 import Skills from './Components/skills/Skills';
-import Services from './Components/services/Services';
+// import Services from './Components/services/Services';
 import Qualification from './Components/qualification/Qualification';
-import Testimonials from './Components/Testimonials/Testimonials';
+import Work from './Components/work/Work';
+// import Testimonials from './Components/Testimonials/Testimonials';
 import Contact from './Components/contact/Contact';
 import Footer from './Components/footer/Footer';
 import ScrollUp from './Components/scrollup/ScrollUp';
@@ -19,9 +20,10 @@ function App() {
         <Home />
         <About />
         <Skills />
-        <Services />
+        {/* <Services />  */}
         <Qualification />
-        <Testimonials />
+        <Work/>
+        {/* <Testimonials /> */}
         <Contact />
 
       </main>

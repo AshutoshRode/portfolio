@@ -1,4 +1,5 @@
 .contact__container {
+    font-family: var(--body-font)  !important; 
     grid-template-columns: repeat(2, max-content);
     justify-content: center;
     column-gap: 6rem;
@@ -7,9 +8,9 @@
 
 .contact__title {
     text-align: center;
-    font-size: var(--h3-font-size);
-    font-weight: var(--font-medium);
-    margin-bottom: var(--mb-1-5);
+    font-size: var(--h3-font-size) !important;
+    font-weight: var(--font-medium) !important;
+    margin-bottom: var(--mb-1-5) !important;
 }
 
 .contact__info {
@@ -34,11 +35,11 @@
 
 .contact__card-title,
 .contact__card-data {
-    font-size: var(--small-font-size);
+    font-size: var(--small-font-size) !important;
 }
 
 .contact__card-title {
-    font-weight: var(--font-medium);
+    font-weight: var(--font-medium) !important;
 }
 
 .contact__card-data {

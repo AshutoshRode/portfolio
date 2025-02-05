@@ -6,8 +6,8 @@ function Social() {
       <a href="https://www.instagram.com/rodeashutosh/" className="home__social-icon" target='_blank'>
         <i className="uil uil-instagram"></i>
       </a>
-      <a href="" className="home__social-icon" target='_blank'>
-        <i className="uil uil-dribbble"></i>
+      <a href="https://linkedin.com/in/ashutosh-rode-a81a8a18b" className="home__social-icon" target='_blank'>
+        <i className="uil uil-linkedin-alt"></i>
       </a>
       <a href="https://github.com/AshutoshRode" className="home__social-icon" target='_blank'>
         <i className="uil uil-github-alt"></i>

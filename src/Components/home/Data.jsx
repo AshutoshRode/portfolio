@@ -60,7 +60,7 @@ function Data() {
         Full Stack Web Developer
       </h3>
       <p className="home__description">
-        I'm creative designer based in India, and I'm very passionate and dedicated to my work.
+        A dedicated Full Stack Web Developer with expertise in React.js, JavaScript, WordPress, PHP, and modern web technologies. With 8 months of experience in building responsive websites and dynamic web applications, I am eager to contribute my skills to innovative projects and deliver impactful digital solutions.
       </p>
 
       <a href="#contact" className="button button--flex">
