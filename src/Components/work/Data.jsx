@@ -13,7 +13,7 @@ export const projectsData = [
           image: Work1,
           title: "Netflix Clone",
           category: "clone",
-          link: "https://netflix-clone-new-iota.vercel.app/",
+          link: "https://netflix-clone-new2.vercel.app/",
           repo: "https://github.com/AshutoshRode/Netflix-Clone-New.git",
         },
         {
