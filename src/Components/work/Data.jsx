@@ -7,6 +7,7 @@ import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.jpeg"
 import Work8 from "../../assets/work8.jpeg"
+import Work9 from "../../assets/work9.jpeg"
 
 export const projectsData = [
         {
@@ -53,25 +54,33 @@ export const projectsData = [
           id: 6,
           image: Work6,
           title: "To-Do List",
-          category: "App",
+          category: "app",
           link: "https://to-do-list-ar.netlify.app/",
           repo: "https://github.com/AshutoshRode/To-Do-List.git",
         },
         {
           id: 7,
           image: Work7,
-          title: "Tic-Tac-Toe-Game",
-          category: "Game",
+          title: "Tic Tac Toe Game",
+          category: "game",
           link: "https://tic-tac-toe-game-chi-ecru.vercel.app/",
           repo: "https://github.com/AshutoshRode/Tic-Tac-Toe-Game.git",
         },
            {
           id: 8,
           image: Work8,
-          title: "Rock-Paper-Scissors-Game",
-          category: "Game",
+          title: "Rock Paper Scissors Game",
+          category: "game",
           link: "https://rock-paper-scissors-game-ar.netlify.app/",
           repo: "https://github.com/AshutoshRode/rock-paper-scissors-game.git",
+        },
+          {
+          id: 8,
+          image: Work9,
+          title: "Amazon Clone",
+          category: "clone",
+          link: "https://clone-amazon-shopping-websit.netlify.app/",
+          repo: "https://github.com/AshutoshRode/Clone-Amazon-shopping-website-.git",
         },
       ];
       
