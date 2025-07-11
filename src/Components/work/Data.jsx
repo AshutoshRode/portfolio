@@ -75,7 +75,7 @@ export const projectsData = [
           repo: "https://github.com/AshutoshRode/rock-paper-scissors-game.git",
         },
           {
-          id: 8,
+          id: 9,
           image: Work9,
           title: "Amazon Clone",
           category: "Clone",
