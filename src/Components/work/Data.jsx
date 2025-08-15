@@ -8,7 +8,7 @@ import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.jpeg"
 import Work8 from "../../assets/work8.jpeg"
 import Work9 from "../../assets/work9.jpeg"
-
+import Work10 from "../../assets/work10.jpeg"
 export const projectsData = [
         {
           id: 1,
@@ -81,6 +81,14 @@ export const projectsData = [
           category: "Clone",
           link: "https://clone-amazon-shopping-websit.netlify.app/",
           repo: "https://github.com/AshutoshRode/Clone-Amazon-shopping-website-.git",
+        },
+        {
+          id: 10,
+          image: Work10,
+          title: "Notes App",
+          category: "App",
+          link: "https://notes-app-two-umber.vercel.app/signin",
+          repo: "https://github.com/AshutoshRode/Notes-app.git",
         },
       ];
       
